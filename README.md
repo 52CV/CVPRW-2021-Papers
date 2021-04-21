@@ -2,13 +2,56 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+
+### :fireworks::fireworks::fireworks:更新提示：4月21日新增7篇
+
+* 草图
+  * [Engineering Sketch Generation for Computer-Aided Design](https://arxiv.org/abs/2104.09621)
+* 视频
+  * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
+* 姿态
+  * [Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://arxiv.org/abs/2104.09907)
+* 无监督 
+  * [Perceptual Loss for Robust Unsupervised Homography Estimation](https://arxiv.org/abs/2104.10011)
+* SLAM
+  * [Comparing Representations in Tracking for Event Camera-based SLAM](https://arxiv.org/abs/2104.09887)<br>:star:[code](https://github.com/gogojjh/ESVO_extension)
+* 知识蒸馏
+  * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
+* 类增量学习
+  * [Class-Incremental Learning with Generative Classifiers](https://arxiv.org/abs/2104.10093)<br>:star:[code](https://github.com/GMvandeVen/class-incremental-learning)
+
+
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
+|[27.人体姿态估计](#27)|[26.无监督](#26)|
+|[25.SLAM/AR/VR/机器人](#25)[24.模型压缩&应用部署](#24)[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
 |[15.遥感航空影像](#15)|[14VQA](#14)|[13.SR](#13)|[12.图像分割](#12)|[11.图像处理](#11)|
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.自动驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
+
+
+<a name="27"/>
+
+## 27.人体姿态估计
+  * [Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://arxiv.org/abs/2104.09907)
+
+<a name="26"/>
+
+## 26.无监督 
+  * [Perceptual Loss for Robust Unsupervised Homography Estimation](https://arxiv.org/abs/2104.10011)
+
+<a name="25"/>
+
+## 25.SLAM/AR/VR/机器人
+  * [Comparing Representations in Tracking for Event Camera-based SLAM](https://arxiv.org/abs/2104.09887)<br>:star:[code](https://github.com/gogojjh/ESVO_extension)
+
+<a name="24"/>
+
+## 24.模型压缩&应用部署
+* 知识蒸馏
+  * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
+
 <a name="23"/>
 
 ## 23.人脸
@@ -25,7 +68,8 @@
 ## 21.视频
 * 视频恢复
   * [Restoration of Video Frames from a Single Blurred Image with Motion Understanding](https://arxiv.org/abs/2104.09134)
-
+* 异常检测
+  * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
 <a name="20"/>
 
 ## 20.三维
@@ -113,7 +157,9 @@
 <a name="6"/>
 
 ## 6.手绘草图
-  * [On Training Sketch Recognizers for New Domains](https://arxiv.org/abs/2104.08850)
+* [On Training Sketch Recognizers for New Domains](https://arxiv.org/abs/2104.08850)
+* 工程草图生成
+  * [Engineering Sketch Generation for Computer-Aided Design](https://arxiv.org/abs/2104.09621)
 
 <a name="5"/>
 
@@ -142,6 +188,8 @@
   * [A Mathematical Analysis of Learning Loss for Active Learning in Regression](https://arxiv.org/abs/2104.09315)
 * 对比学习
   * [Contrastive Learning Improves Model Robustness Under Label Noise](https://arxiv.org/abs/2104.08984)
+* 类增量学习
+  * [Class-Incremental Learning with Generative Classifiers](https://arxiv.org/abs/2104.10093)<br>:star:[code](https://github.com/GMvandeVen/class-incremental-learning)
 
 <a name="1"/>
 
