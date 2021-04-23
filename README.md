@@ -2,6 +2,17 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：4月23日新增4篇
+
+* Auto-ML
+  * [Network Space Search for Pareto-Efficient Spaces](https://arxiv.org/abs/2104.11014)
+* 车辆重识别
+  * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
+* 智能驾驶
+  * [MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data](https://arxiv.org/abs/2104.10772)
+  * [Multi-task Learning with Attention for End-to-end Autonomous Driving](https://arxiv.org/abs/2104.10753)
+
+
 ### :fireworks::fireworks::fireworks:更新提示：4月22日新增4篇
 * 医学
   * [GAN-Based Data Augmentation and Anonymization for Skin-Lesion Analysis: A Critical Review](https://arxiv.org/abs/2104.10603)
@@ -32,12 +43,18 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
+|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
 |[15.遥感航空影像](#15)|[14VQA](#14)|[13.SR](#13)|[12.图像分割](#12)|[11.图像处理](#11)|
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
-|[5.自动驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
+|[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
+
+<a name="29"/>
+
+## 29.Auto-ML&NAS
+* Auto-ML
+  * [Network Space Search for Pareto-Efficient Spaces](https://arxiv.org/abs/2104.11014)
 
 <a name="28"/>
 
@@ -176,8 +193,13 @@
 
 <a name="5"/>
 
-## 5.自动驾驶
-* [End-to-End Interactive Prediction and Planning with Optical Flow Distillation for Autonomous Driving](https://arxiv.org/abs/2104.08862)<br>:house:[project](https://sites.google.com/view/inmp-ofd)
+## 5.车辆车牌与智能驾驶
+* 自动驾驶
+  * [MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data](https://arxiv.org/abs/2104.10772)
+  * [Multi-task Learning with Attention for End-to-end Autonomous Driving](https://arxiv.org/abs/2104.10753)
+  * [End-to-End Interactive Prediction and Planning with Optical Flow Distillation for Autonomous Driving](https://arxiv.org/abs/2104.08862)<br>:house:[project](https://sites.google.com/view/inmp-ofd)
+* 车辆重识别
+  * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
 
 <a name="4"/>
 
