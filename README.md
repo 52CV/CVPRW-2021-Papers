@@ -2,7 +2,15 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
-### :fireworks::fireworks::fireworks:更新提示：4月23日新增4篇
+### :fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
+* CV综合
+  * [Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities](https://arxiv.org/abs/2104.11691)
+* 图像质量评估
+  * [Region-Adaptive Deformable Network for Image Quality Assessment](https://arxiv.org/abs/2104.11599)<br>:star:[code](https://github.com/IIGROUP/RADN)
+* 车辆
+  * [SBNet: Segmentation-based Network for Natural Language-based Vehicle Search](https://arxiv.org/abs/2104.11589)<br>:star:[code](https://github.com/lsrock1/nlp_search)
+
+:fireworks::fireworks::fireworks:更新提示：4月23日新增4篇
 
 * Auto-ML
   * [Network Space Search for Pareto-Efficient Spaces](https://arxiv.org/abs/2104.11014)
@@ -163,6 +171,8 @@
   * [A Two-branch Neural Network for Non-homogeneous Dehazing via Ensemble Learning](https://arxiv.org/abs/2104.08902)<br>:star:[code](https://github.com/liuh127/Two-branch-dehazing)
 * 图像压缩
   * [DANICE: Domain adaptation without forgetting in neural image compression](https://arxiv.org/abs/2104.09370) 
+* 图像质量评估
+  * [Region-Adaptive Deformable Network for Image Quality Assessment](https://arxiv.org/abs/2104.11599)<br>:star:[code](https://github.com/IIGROUP/RADN)
 
 <a name="10"/>
 
@@ -200,6 +210,8 @@
   * [End-to-End Interactive Prediction and Planning with Optical Flow Distillation for Autonomous Driving](https://arxiv.org/abs/2104.08862)<br>:house:[project](https://sites.google.com/view/inmp-ofd)
 * 车辆重识别
   * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
+* 车辆检索
+  * [SBNet: Segmentation-based Network for Natural Language-based Vehicle Search](https://arxiv.org/abs/2104.11589)<br>:star:[code](https://github.com/lsrock1/nlp_search)
 
 <a name="4"/>
 
@@ -235,6 +247,7 @@
 * [Assessment of deep learning based blood pressure prediction from PPG and rPPG signals](https://arxiv.org/abs/2104.09313)
 * [I Find Your Lack of Uncertainty in Computer Vision Disturbing](https://arxiv.org/abs/2104.08188)
 * [Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis](https://arxiv.org/abs/2104.10252)
+* [Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities](https://arxiv.org/abs/2104.11691)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
 
