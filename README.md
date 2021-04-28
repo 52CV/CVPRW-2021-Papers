@@ -2,8 +2,15 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
+* 图像处理
+  * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
+* CV综合
+  * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
+* 动作检测
+  * [Three-stream network for enriched Action Recognition](https://arxiv.org/abs/2104.13051)
 
-### :fireworks::fireworks::fireworks:更新提示：4月27日新增5篇
+:fireworks::fireworks::fireworks:更新提示：4月27日新增5篇
 * 跟踪
   * [Detecting and Matching Related Objects with One Proposal Multiple Predictions](https://arxiv.org/abs/2104.12574)
 * CV综合
@@ -151,6 +158,8 @@
 * action spotting-重点动作识别
   * [Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts](https://arxiv.org/abs/2104.06779)
   * [Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of their Representations for Action Spotting](https://arxiv.org/abs/2104.09333)<br>:sunflower:[dataset](https://soccer-net.org/)
+* 动作检测
+  * [Three-stream network for enriched Action Recognition](https://arxiv.org/abs/2104.13051)
 
 <a name="16"/>
 
@@ -197,6 +206,8 @@
   * [Region-Adaptive Deformable Network for Image Quality Assessment](https://arxiv.org/abs/2104.11599)<br>:star:[code](https://github.com/IIGROUP/RADN)
 * 去雨
   * [Multi-Scale Hourglass Hierarchical Fusion Network for Single Image Deraining](https://arxiv.org/abs/2104.12100)
+* 照片补光
+  * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
 
 <a name="10"/>
 
@@ -275,6 +286,7 @@
 * [Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis](https://arxiv.org/abs/2104.10252)
 * [Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities](https://arxiv.org/abs/2104.11691)
 * [The 5th AI City Challenge](https://arxiv.org/abs/2104.12233)
+* [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
 
