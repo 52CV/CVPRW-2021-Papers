@@ -2,7 +2,17 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
-### :fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
+### :fireworks::fireworks::fireworks:更新提示：4月28日新增4篇
+* CV综合
+  * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
+* 分类
+  * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
+* 联邦学习
+  * [Towards Fair Federated Learning with Zero-Shot Data Augmentation](https://arxiv.org/abs/2104.13417)
+* 医学
+  * [Unsupervised Detection of Cancerous Regions in Histology Imagery using Image-to-Image Translation](https://arxiv.org/abs/2104.13786)
+
+:fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
 * 图像处理
   * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
 * CV综合
@@ -71,6 +81,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
+|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
@@ -78,6 +89,10 @@
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
 
+<a name="31"/>
+
+## 31.图像分类
+  * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
 
 
 <a name="30"/>
@@ -95,6 +110,8 @@
 
 ## 28.医学影像
 * [GAN-Based Data Augmentation and Anonymization for Skin-Lesion Analysis: A Critical Review](https://arxiv.org/abs/2104.10603)
+* 无监督检测
+  * [Unsupervised Detection of Cancerous Regions in Histology Imagery using Image-to-Image Translation](https://arxiv.org/abs/2104.13786)
 
 <a name="27"/>
 
@@ -137,6 +154,7 @@
   * [Restoration of Video Frames from a Single Blurred Image with Motion Understanding](https://arxiv.org/abs/2104.09134)
 * 异常检测
   * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
+
 <a name="20"/>
 
 ## 20.三维
@@ -276,6 +294,8 @@
   * [IB-DRR: Incremental Learning with Information-Back Discrete Representation Replay](https://arxiv.org/abs/2104.10588)
 * 持续学习
   * [Class-Incremental Experience Replay for Continual Learning under Concept Drift](https://arxiv.org/abs/2104.11861)
+* 联邦学习
+  * [Towards Fair Federated Learning with Zero-Shot Data Augmentation](https://arxiv.org/abs/2104.13417)
 
 <a name="1"/>
 
@@ -287,7 +307,6 @@
 * [Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities](https://arxiv.org/abs/2104.11691)
 * [The 5th AI City Challenge](https://arxiv.org/abs/2104.12233)
 * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
+* [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
-
-
