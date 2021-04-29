@@ -2,7 +2,7 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
-### :fireworks::fireworks::fireworks:更新提示：4月28日新增4篇
+### :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
 * CV综合
   * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
 * 分类
