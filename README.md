@@ -2,6 +2,15 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增3篇
+* 目标检测
+  * [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
+* 分割
+  * [Rethinking Ensemble-Distillation for Semantic Segmentation Based Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.14203)
+* CV综合
+  * [CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications](https://arxiv.org/abs/2104.14126)
+
+
 ### :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
 * CV综合
   * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
@@ -19,65 +28,6 @@
   * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
 * 动作检测
   * [Three-stream network for enriched Action Recognition](https://arxiv.org/abs/2104.13051)
-
-:fireworks::fireworks::fireworks:更新提示：4月27日新增5篇
-* 跟踪
-  * [Detecting and Matching Related Objects with One Proposal Multiple Predictions](https://arxiv.org/abs/2104.12574)
-* CV综合
-  * [The 5th AI City Challenge](https://arxiv.org/abs/2104.12233)
-* 量化
-  * [Do All MobileNets Quantize Poorly? Gaining Insights into the Effect of Quantization on Depthwise Separable Convolutional Networks Through the Eyes of Multi-scale Distributional Dynamics](https://arxiv.org/abs/2104.11849)
-* 去雨
-  * [Multi-Scale Hourglass Hierarchical Fusion Network for Single Image Deraining](https://arxiv.org/abs/2104.12100)
-* 持续学习
-  * [Class-Incremental Experience Replay for Continual Learning under Concept Drift](https://arxiv.org/abs/2104.11861)
-
-:fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
-* CV综合
-  * [Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities](https://arxiv.org/abs/2104.11691)
-* 图像质量评估
-  * [Region-Adaptive Deformable Network for Image Quality Assessment](https://arxiv.org/abs/2104.11599)<br>:star:[code](https://github.com/IIGROUP/RADN)
-* 车辆
-  * [SBNet: Segmentation-based Network for Natural Language-based Vehicle Search](https://arxiv.org/abs/2104.11589)<br>:star:[code](https://github.com/lsrock1/nlp_search)
-
-:fireworks::fireworks::fireworks:更新提示：4月23日新增4篇
-
-* Auto-ML
-  * [Network Space Search for Pareto-Efficient Spaces](https://arxiv.org/abs/2104.11014)
-* 车辆重识别
-  * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
-* 智能驾驶
-  * [MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data](https://arxiv.org/abs/2104.10772)
-  * [Multi-task Learning with Attention for End-to-end Autonomous Driving](https://arxiv.org/abs/2104.10753)
-
-
-### :fireworks::fireworks::fireworks:更新提示：4月22日新增4篇
-* 医学
-  * [GAN-Based Data Augmentation and Anonymization for Skin-Lesion Analysis: A Critical Review](https://arxiv.org/abs/2104.10603)
-* 增量学习
-  * [IB-DRR: Incremental Learning with Information-Back Discrete Representation Replay](https://arxiv.org/abs/2104.10588)
-* 综合
-  * [Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis](https://arxiv.org/abs/2104.10252)
-* 异常检测
-  * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
-
-:fireworks::fireworks::fireworks:更新提示：4月21日新增7篇
-
-* 草图
-  * [Engineering Sketch Generation for Computer-Aided Design](https://arxiv.org/abs/2104.09621)
-* 视频
-  * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
-* 姿态
-  * [Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation](https://arxiv.org/abs/2104.09907)
-* 无监督 
-  * [Perceptual Loss for Robust Unsupervised Homography Estimation](https://arxiv.org/abs/2104.10011)
-* SLAM
-  * [Comparing Representations in Tracking for Event Camera-based SLAM](https://arxiv.org/abs/2104.09887)<br>:star:[code](https://github.com/gogojjh/ESVO_extension)
-* 知识蒸馏
-  * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
-* 类增量学习
-  * [Class-Incremental Learning with Generative Classifiers](https://arxiv.org/abs/2104.10093)<br>:star:[code](https://github.com/GMvandeVen/class-incremental-learning)
-
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
@@ -208,6 +158,7 @@
 * 语义分割
   * [Improving Online Performance Prediction for Semantic Segmentation](https://arxiv.org/abs/2104.05255) 
   * [Plants Don't Walk on the Street: Common-Sense Reasoning for Reliable Semantic Segmentation](https://arxiv.org/abs/2104.09254)
+  * [Rethinking Ensemble-Distillation for Semantic Segmentation Based Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.14203)
 * 实例分割
   * [Fashion-Guided Adversarial Attack on Person Segmentation](https://arxiv.org/abs/2104.08422)
 
@@ -231,6 +182,7 @@
 
 ## 10.目标检测
 * [LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network](https://arxiv.org/abs/2104.09248)
+* [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
 
 <a name="9"/>
 
@@ -308,5 +260,6 @@
 * [The 5th AI City Challenge](https://arxiv.org/abs/2104.12233)
 * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
 * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
+* [CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications](https://arxiv.org/abs/2104.14126)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
