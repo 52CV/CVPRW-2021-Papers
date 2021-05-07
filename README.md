@@ -2,32 +2,33 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增3篇
-* 目标检测
-  * [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
-* 分割
-  * [Rethinking Ensemble-Distillation for Semantic Segmentation Based Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.14203)
-* CV综合
-  * [CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications](https://arxiv.org/abs/2104.14126)
+### :fireworks::fireworks::fireworks:更新提示：5月6日新增2篇
+* 图像补光
+  * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)
+* CV 综合
+  * [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
+
+### :fireworks::fireworks::fireworks:更新提示：5月4日新增4篇
+* 图像补光
+  * [Multi-modal Bifurcated Network for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00690)<br>:star:[code](https://github.com/weitingchen83/NTIRE2021-Depth-   Guided-Image-Relighting-MBNet)<br>是 NTIRE 2021 深度指南一对一补光挑战赛的冠军
+  * [S3Net: A Single Stream Structure for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00681)<br>:star:[code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)<br>在 NTIRE 2021 深度引导的任意重新照明挑战中获得第3名
+* 人脸
+  * [EQFace: A Simple Explicit Quality Network for Face Recognition](https://arxiv.org/abs/2105.00634)<br>:star:[code](https://github.com/deepcam-cn/facequality)
+* CV 综合
+  * [Feedback control of event cameras](https://arxiv.org/abs/2105.00409)
 
 
-### :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
-* CV综合
-  * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
-* 分类
-  * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
-* 联邦学习
-  * [Towards Fair Federated Learning with Zero-Shot Data Augmentation](https://arxiv.org/abs/2104.13417)
-* 医学
-  * [Unsupervised Detection of Cancerous Regions in Histology Imagery using Image-to-Image Translation](https://arxiv.org/abs/2104.13786)
+### :fireworks::fireworks::fireworks:更新提示：5月3日新增5篇
+* 跟踪
+  * [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://arxiv.org/abs/2104.15139)<br>:house:[project](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/)
+* 图像质量
+  * [NTIRE 2021 Challenge on Image Deblurring](https://arxiv.org/abs/2104.14854)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+  * [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730)<br>:star:[code](https://github.com/manricheon/IQT)<br>在NTIRE 2021年感知IQA挑战中获得第一名
+* SR
+  * [NTIRE 2021 Challenge on Video Super-Resolution](https://arxiv.org/abs/2104.14852)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+* 联合学习
+  * [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/abs/2104.14628)
 
-:fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
-* 图像处理
-  * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
-* CV综合
-  * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
-* 动作检测
-  * [Three-stream network for enriched Action Recognition](https://arxiv.org/abs/2104.13051)
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
@@ -49,6 +50,7 @@
 
 ## 30.目标跟踪
 * [Detecting and Matching Related Objects with One Proposal Multiple Predictions](https://arxiv.org/abs/2104.12574)
+* [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://arxiv.org/abs/2104.15139)<br>:house:[project](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/)
 
 <a name="29"/>
 
@@ -89,7 +91,10 @@
 <a name="23"/>
 
 ## 23.人脸
-* [I Only Have Eyes for You: The Impact of Masks On Convolutional-Based Facial Expression Recognition](https://arxiv.org/abs/2104.08353)
+* 人脸表情识别
+  * [I Only Have Eyes for You: The Impact of Masks On Convolutional-Based Facial Expression Recognition](https://arxiv.org/abs/2104.08353)
+* 人脸识别
+  * [EQFace: A Simple Explicit Quality Network for Face Recognition](https://arxiv.org/abs/2105.00634)<br>:star:[code](https://github.com/deepcam-cn/facequality)
 
 <a name="22"/>
 
@@ -151,6 +156,7 @@
 
 ## 13.SR-超分辨率
 * [Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling](https://arxiv.org/abs/2104.05778)
+* [NTIRE 2021 Challenge on Video Super-Resolution](https://arxiv.org/abs/2104.14852)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
 
 <a name="12"/>
 
@@ -177,6 +183,14 @@
   * [Multi-Scale Hourglass Hierarchical Fusion Network for Single Image Deraining](https://arxiv.org/abs/2104.12100)
 * 照片补光
   * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
+* 去模糊
+  * [NTIRE 2021 Challenge on Image Deblurring](https://arxiv.org/abs/2104.14854)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+* 图像质量评估
+  * [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730)<br>:star:[code](https://github.com/manricheon/IQT)<br>在NTIRE 2021年感知IQA挑战中获得第一名
+* 图像补光
+  * [Multi-modal Bifurcated Network for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00690)<br>:star:[code](https://github.com/weitingchen83/NTIRE2021-Depth-   Guided-Image-Relighting-MBNet)<br>是 NTIRE 2021 深度指南一对一补光挑战赛的冠军
+  * [S3Net: A Single Stream Structure for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00681)<br>:star:[code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)<br>在 NTIRE 2021 深度引导的任意重新照明挑战中获得第3名
+  * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)<br> OIDDR-Net排名第二，AMIDR-Net 在 NTIRE 2021 年深度引导图像重光挑战中名列前五名
 
 <a name="10"/>
 
@@ -248,6 +262,7 @@
   * [Class-Incremental Experience Replay for Continual Learning under Concept Drift](https://arxiv.org/abs/2104.11861)
 * 联邦学习
   * [Towards Fair Federated Learning with Zero-Shot Data Augmentation](https://arxiv.org/abs/2104.13417)
+  * [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/abs/2104.14628)
 
 <a name="1"/>
 
@@ -261,5 +276,7 @@
 * [Width Transfer: On the (In)variance of Width Optimization](https://arxiv.org/abs/2104.13255)
 * [Sign Segmentation with Changepoint-Modulated Pseudo-Labelling](https://arxiv.org/abs/2104.13817)
 * [CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications](https://arxiv.org/abs/2104.14126)
+* [Feedback control of event cameras](https://arxiv.org/abs/2105.00409)
+* [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
