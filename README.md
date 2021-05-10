@@ -2,6 +2,8 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月10日新增1篇
+* [BasisNet: Two-stage Model Synthesis for Efficient Inference](https://arxiv.org/abs/2105.03014)
 ### :fireworks::fireworks::fireworks:更新提示：5月6日新增2篇
 * 图像补光
   * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)
@@ -83,6 +85,7 @@
 <a name="24"/>
 
 ## 24.模型压缩&应用部署
+* [BasisNet: Two-stage Model Synthesis for Efficient Inference](https://arxiv.org/abs/2105.03014)
 * 知识蒸馏
   * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
 * 量化
