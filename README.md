@@ -2,6 +2,16 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
+* 异常检测
+  * [Good Practices and A Strong Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)<br>在 CVPR 2021 NVIDIA AI CITY 挑战赛中的 Traffic Anomaly Detection(交通异常检测)中排名第一
+* CV 综合
+  * [Dynamic-OFA: Runtime DNN Architecture Switching for Performance Scaling on Heterogeneous Embedded Platforms](https://arxiv.org/abs/2105.03596)<br>与最先进的技术相比，在Jetson Xavier NX 上使用 ImageNet 的实验结果表明，在相似的 ImageNet Top-1 精度下，该方法的速度最高可达 3.5倍（CPU），2.4倍（GPU），或者在相似的延迟下，精度更高 3.8%（CPU），5.1%（GPU）。
+* 数据集
+  * [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
+* 量化
+  * [Pareto-Optimal Quantized ResNet Is Mostly 4-bit](https://arxiv.org/abs/2105.03536)<br>:star:[code](https://github.com/google-research/google-research/tree/master/aqt)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月10日新增1篇
 * [BasisNet: Two-stage Model Synthesis for Efficient Inference](https://arxiv.org/abs/2105.03014)
 ### :fireworks::fireworks::fireworks:更新提示：5月6日新增2篇
@@ -9,28 +19,6 @@
   * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)
 * CV 综合
   * [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
-
-### :fireworks::fireworks::fireworks:更新提示：5月4日新增4篇
-* 图像补光
-  * [Multi-modal Bifurcated Network for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00690)<br>:star:[code](https://github.com/weitingchen83/NTIRE2021-Depth-   Guided-Image-Relighting-MBNet)<br>是 NTIRE 2021 深度指南一对一补光挑战赛的冠军
-  * [S3Net: A Single Stream Structure for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00681)<br>:star:[code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)<br>在 NTIRE 2021 深度引导的任意重新照明挑战中获得第3名
-* 人脸
-  * [EQFace: A Simple Explicit Quality Network for Face Recognition](https://arxiv.org/abs/2105.00634)<br>:star:[code](https://github.com/deepcam-cn/facequality)
-* CV 综合
-  * [Feedback control of event cameras](https://arxiv.org/abs/2105.00409)
-
-
-### :fireworks::fireworks::fireworks:更新提示：5月3日新增5篇
-* 跟踪
-  * [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://arxiv.org/abs/2104.15139)<br>:house:[project](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/)
-* 图像质量
-  * [NTIRE 2021 Challenge on Image Deblurring](https://arxiv.org/abs/2104.14854)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
-  * [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730)<br>:star:[code](https://github.com/manricheon/IQT)<br>在NTIRE 2021年感知IQA挑战中获得第一名
-* SR
-  * [NTIRE 2021 Challenge on Video Super-Resolution](https://arxiv.org/abs/2104.14852)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
-* 联合学习
-  * [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/abs/2104.14628)
-
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
@@ -90,6 +78,7 @@
   * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
 * 量化
   * [Do All MobileNets Quantize Poorly? Gaining Insights into the Effect of Quantization on Depthwise Separable Convolutional Networks Through the Eyes of Multi-scale Distributional Dynamics](https://arxiv.org/abs/2104.11849)
+  * [Pareto-Optimal Quantized ResNet Is Mostly 4-bit](https://arxiv.org/abs/2105.03536)<br>:star:[code](https://github.com/google-research/google-research/tree/master/aqt)
 
 <a name="23"/>
 
@@ -112,6 +101,7 @@
   * [Restoration of Video Frames from a Single Blurred Image with Motion Understanding](https://arxiv.org/abs/2104.09134)
 * 异常检测
   * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
+  * [Good Practices and A Strong Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)<br>在 CVPR 2021 NVIDIA AI CITY 挑战赛中的 Traffic Anomaly Detection(交通异常检测)中排名第一
 
 <a name="20"/>
 
@@ -239,6 +229,7 @@
 
 ## 4.数据集
 * [The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions](https://arxiv.org/abs/2104.02710)
+* [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
 
 <a name="3"/>
 
@@ -281,5 +272,6 @@
 * [CASSOD-Net: Cascaded and Separable Structures of Dilated Convolution for Embedded Vision Systems and Applications](https://arxiv.org/abs/2104.14126)
 * [Feedback control of event cameras](https://arxiv.org/abs/2105.00409)
 * [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
+* [Dynamic-OFA: Runtime DNN Architecture Switching for Performance Scaling on Heterogeneous Embedded Platforms](https://arxiv.org/abs/2105.03596)<br>与最先进的技术相比，在Jetson Xavier NX 上使用 ImageNet 的实验结果表明，在相似的 ImageNet Top-1 精度下，该方法的速度最高可达 3.5倍（CPU），2.4倍（GPU），或者在相似的延迟下，精度更高 3.8%（CPU），5.1%（GPU）。
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
