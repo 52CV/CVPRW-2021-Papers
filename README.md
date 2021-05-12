@@ -2,6 +2,14 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月12日新增3篇
+* 自动驾驶
+  * [Rethinking of Radar's Role: A Camera-Radar Dataset and Systematic Annotator via Coordinate Alignment](https://arxiv.org/abs/2105.05207)<br>:sunflower:[dataset](https://www.cruwdataset.org/)
+* 手语识别
+  * [ChaLearn LAP Large Scale Signer Independent Isolated Sign Language Recognition Challenge: Design, Results and Future Research](https://arxiv.org/abs/2105.05066)
+* 图像恢复
+  * [EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration](https://arxiv.org/abs/2105.04872)<br>:star:[code](https://github.com/zeyuxiao1997/EDPN)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
 * 异常检测
   * [Good Practices and A Strong Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)<br>在 CVPR 2021 NVIDIA AI CITY 挑战赛中的 Traffic Anomaly Detection(交通异常检测)中排名第一
@@ -12,17 +20,9 @@
 * 量化
   * [Pareto-Optimal Quantized ResNet Is Mostly 4-bit](https://arxiv.org/abs/2105.03536)<br>:star:[code](https://github.com/google-research/google-research/tree/master/aqt)
 
-### :fireworks::fireworks::fireworks:更新提示：5月10日新增1篇
-* [BasisNet: Two-stage Model Synthesis for Efficient Inference](https://arxiv.org/abs/2105.03014)
-### :fireworks::fireworks::fireworks:更新提示：5月6日新增2篇
-* 图像补光
-  * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)
-* CV 综合
-  * [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
-
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[31.图像分类](#31)|
+|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
@@ -30,11 +30,16 @@
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
 
+
+<a name="32"/>
+
+## 32.手语识别
+* [ChaLearn LAP Large Scale Signer Independent Isolated Sign Language Recognition Challenge: Design, Results and Future Research](https://arxiv.org/abs/2105.05066)
+
 <a name="31"/>
 
 ## 31.图像分类
   * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
-
 
 <a name="30"/>
 
@@ -172,18 +177,19 @@
   * [DANICE: Domain adaptation without forgetting in neural image compression](https://arxiv.org/abs/2104.09370) 
 * 图像质量评估
   * [Region-Adaptive Deformable Network for Image Quality Assessment](https://arxiv.org/abs/2104.11599)<br>:star:[code](https://github.com/IIGROUP/RADN)
+  * [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730)<br>:star:[code](https://github.com/manricheon/IQT)<br>在NTIRE 2021年感知IQA挑战中获得第一名
 * 去雨
   * [Multi-Scale Hourglass Hierarchical Fusion Network for Single Image Deraining](https://arxiv.org/abs/2104.12100)
 * 照片补光
   * [NTIRE 2021 Depth Guided Image Relighting Challenge](https://arxiv.org/abs/2104.13365)<br>:star:[code](https://github.com/majedelhelou/VIDIT)
 * 去模糊
   * [NTIRE 2021 Challenge on Image Deblurring](https://arxiv.org/abs/2104.14854)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
-* 图像质量评估
-  * [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730)<br>:star:[code](https://github.com/manricheon/IQT)<br>在NTIRE 2021年感知IQA挑战中获得第一名
 * 图像补光
   * [Multi-modal Bifurcated Network for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00690)<br>:star:[code](https://github.com/weitingchen83/NTIRE2021-Depth-   Guided-Image-Relighting-MBNet)<br>是 NTIRE 2021 深度指南一对一补光挑战赛的冠军
   * [S3Net: A Single Stream Structure for Depth Guided Image Relighting](https://arxiv.org/abs/2105.00681)<br>:star:[code](https://github.com/dectrfov/NTIRE-2021-Depth-Guided-Image-Any-to-Any-relighting)<br>在 NTIRE 2021 深度引导的任意重新照明挑战中获得第3名
   * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)<br> OIDDR-Net排名第二，AMIDR-Net 在 NTIRE 2021 年深度引导图像重光挑战中名列前五名
+* 图像恢复
+  * [EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration](https://arxiv.org/abs/2105.04872)<br>:star:[code](https://github.com/zeyuxiao1997/EDPN)
 
 <a name="10"/>
 
@@ -220,6 +226,7 @@
   * [MVFuseNet: Improving End-to-End Object Detection and Motion Forecasting through Multi-View Fusion of LiDAR Data](https://arxiv.org/abs/2104.10772)
   * [Multi-task Learning with Attention for End-to-end Autonomous Driving](https://arxiv.org/abs/2104.10753)
   * [End-to-End Interactive Prediction and Planning with Optical Flow Distillation for Autonomous Driving](https://arxiv.org/abs/2104.08862)<br>:house:[project](https://sites.google.com/view/inmp-ofd)
+  * [Rethinking of Radar's Role: A Camera-Radar Dataset and Systematic Annotator via Coordinate Alignment](https://arxiv.org/abs/2105.05207)<br>:sunflower:[dataset](https://www.cruwdataset.org/)
 * 车辆重识别
   * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
 * 车辆检索
