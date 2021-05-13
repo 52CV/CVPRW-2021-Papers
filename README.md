@@ -2,6 +2,11 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
+* GAN
+  * [Learning to Generate Novel Scene Compositions from Single Images and Videos](https://arxiv.org/abs/2105.05847)
+  * [Directional GAN: A Novel Conditioning Strategy for Generative Networks](https://arxiv.org/abs/2105.05712)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月12日新增3篇
 * 自动驾驶
   * [Rethinking of Radar's Role: A Camera-Radar Dataset and Systematic Annotator via Coordinate Alignment](https://arxiv.org/abs/2105.05207)<br>:sunflower:[dataset](https://www.cruwdataset.org/)
@@ -22,7 +27,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[32.手语识别](#32)|[31.图像分类](#31)|
+|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
@@ -30,6 +35,11 @@
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
 
+<a name="33"/>
+
+## 33.GAN
+* [Learning to Generate Novel Scene Compositions from Single Images and Videos](https://arxiv.org/abs/2105.05847)
+* [Directional GAN: A Novel Conditioning Strategy for Generative Networks](https://arxiv.org/abs/2105.05712)
 
 <a name="32"/>
 
