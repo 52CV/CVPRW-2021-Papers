@@ -2,6 +2,13 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月14日新增2篇
+
+* CV 综合
+  * [High-Resolution Complex Scene Synthesis with Transformers](https://arxiv.org/pdf/2105.06458.pdf)
+  * [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
+
+
 ### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
 * GAN
   * [Learning to Generate Novel Scene Compositions from Single Images and Videos](https://arxiv.org/abs/2105.05847)
@@ -290,5 +297,7 @@
 * [Feedback control of event cameras](https://arxiv.org/abs/2105.00409)
 * [Effectively Leveraging Attributes for Visual Similarity](https://arxiv.org/abs/2105.01695)
 * [Dynamic-OFA: Runtime DNN Architecture Switching for Performance Scaling on Heterogeneous Embedded Platforms](https://arxiv.org/abs/2105.03596)<br>与最先进的技术相比，在Jetson Xavier NX 上使用 ImageNet 的实验结果表明，在相似的 ImageNet Top-1 精度下，该方法的速度最高可达 3.5倍（CPU），2.4倍（GPU），或者在相似的延迟下，精度更高 3.8%（CPU），5.1%（GPU）。
+* [High-Resolution Complex Scene Synthesis with Transformers](https://arxiv.org/pdf/2105.06458.pdf)
+* [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
