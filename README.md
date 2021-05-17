@@ -2,6 +2,13 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月17日新增2篇
+* 视频
+  * [Automatic Non-Linear Video Editing Transfer](https://arxiv.org/abs/2105.06988)
+* 目标跟踪
+  * [City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones](https://arxiv.org/abs/2105.06623)<br>:star:[code](https://github.com/LCFractal/AIC21-MTMC)
+
+
 ### :fireworks::fireworks::fireworks:更新提示：5月14日新增2篇
 
 * CV 综合
@@ -63,6 +70,8 @@
 ## 30.目标跟踪
 * [Detecting and Matching Related Objects with One Proposal Multiple Predictions](https://arxiv.org/abs/2104.12574)
 * [Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://arxiv.org/abs/2104.15139)<br>:house:[project](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/)
+* [City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones](https://arxiv.org/abs/2105.06623)<br>:star:[code](https://github.com/LCFractal/AIC21-MTMC)
+
 
 <a name="29"/>
 
@@ -124,6 +133,8 @@
 * 异常检测
   * [An Efficient Approach for Anomaly Detection in Traffic Videos](https://arxiv.org/abs/2104.09758)
   * [Good Practices and A Strong Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)<br>在 CVPR 2021 NVIDIA AI CITY 挑战赛中的 Traffic Anomaly Detection(交通异常检测)中排名第一
+* 风格迁移
+  * [Automatic Non-Linear Video Editing Transfer](https://arxiv.org/abs/2105.06988)
 
 <a name="20"/>
 
