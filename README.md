@@ -2,42 +2,19 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月18日新增2篇
+* bokeh effect(背景虚化)
+  * [Stacked Deep Multi-Scale Hierarchical Network for Fast Bokeh Effect Rendering from a Single Image](https://arxiv.org/abs/2105.07174)<br>:star:[code](https://github.com/saikatdutta/Stacked_DMSHN_bokeh)
+* 医学图像
+  * [Can self-training identify suspicious ugly duckling lesions?](https://arxiv.org/abs/2105.07116)
+* 未分
+  * [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月17日新增2篇
 * 视频
   * [Automatic Non-Linear Video Editing Transfer](https://arxiv.org/abs/2105.06988)
 * 目标跟踪
   * [City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones](https://arxiv.org/abs/2105.06623)<br>:star:[code](https://github.com/LCFractal/AIC21-MTMC)
-
-
-### :fireworks::fireworks::fireworks:更新提示：5月14日新增2篇
-
-* CV 综合
-  * [High-Resolution Complex Scene Synthesis with Transformers](https://arxiv.org/pdf/2105.06458.pdf)
-  * [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
-
-
-### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
-* GAN
-  * [Learning to Generate Novel Scene Compositions from Single Images and Videos](https://arxiv.org/abs/2105.05847)
-  * [Directional GAN: A Novel Conditioning Strategy for Generative Networks](https://arxiv.org/abs/2105.05712)
-
-### :fireworks::fireworks::fireworks:更新提示：5月12日新增3篇
-* 自动驾驶
-  * [Rethinking of Radar's Role: A Camera-Radar Dataset and Systematic Annotator via Coordinate Alignment](https://arxiv.org/abs/2105.05207)<br>:sunflower:[dataset](https://www.cruwdataset.org/)
-* 手语识别
-  * [ChaLearn LAP Large Scale Signer Independent Isolated Sign Language Recognition Challenge: Design, Results and Future Research](https://arxiv.org/abs/2105.05066)
-* 图像恢复
-  * [EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration](https://arxiv.org/abs/2105.04872)<br>:star:[code](https://github.com/zeyuxiao1997/EDPN)
-
-### :fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
-* 异常检测
-  * [Good Practices and A Strong Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)<br>在 CVPR 2021 NVIDIA AI CITY 挑战赛中的 Traffic Anomaly Detection(交通异常检测)中排名第一
-* CV 综合
-  * [Dynamic-OFA: Runtime DNN Architecture Switching for Performance Scaling on Heterogeneous Embedded Platforms](https://arxiv.org/abs/2105.03596)<br>与最先进的技术相比，在Jetson Xavier NX 上使用 ImageNet 的实验结果表明，在相似的 ImageNet Top-1 精度下，该方法的速度最高可达 3.5倍（CPU），2.4倍（GPU），或者在相似的延迟下，精度更高 3.8%（CPU），5.1%（GPU）。
-* 数据集
-  * [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
-* 量化
-  * [Pareto-Optimal Quantized ResNet Is Mostly 4-bit](https://arxiv.org/abs/2105.03536)<br>:star:[code](https://github.com/google-research/google-research/tree/master/aqt)
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
@@ -47,7 +24,7 @@
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
 |[15.遥感航空影像](#15)|[14VQA](#14)|[13.SR](#13)|[12.图像分割](#12)|[11.图像处理](#11)|
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
-|[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.CV 综合](#1)|
+|[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.Unkown(未分)](#1)|
 
 <a name="33"/>
 
@@ -81,8 +58,10 @@
 
 <a name="28"/>
 
-## 28.医学影像
+## 28.Medical Imaging医学影像
 * [GAN-Based Data Augmentation and Anonymization for Skin-Lesion Analysis: A Critical Review](https://arxiv.org/abs/2104.10603)
+* 医学图像识别
+  * [Can self-training identify suspicious ugly duckling lesions?](https://arxiv.org/abs/2105.07116)
 * 无监督检测
   * [Unsupervised Detection of Cancerous Regions in Histology Imagery using Image-to-Image Translation](https://arxiv.org/abs/2104.13786)
 
@@ -103,7 +82,7 @@
 
 <a name="24"/>
 
-## 24.模型压缩&应用部署
+## 24.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)
 * [BasisNet: Two-stage Model Synthesis for Efficient Inference](https://arxiv.org/abs/2105.03014)
 * 知识蒸馏
   * [Distill on the Go: Online knowledge distillation in self-supervised learning](https://arxiv.org/abs/2104.09866)
@@ -113,7 +92,7 @@
 
 <a name="23"/>
 
-## 23.人脸
+## 23.Face人脸
 * 人脸表情识别
   * [I Only Have Eyes for You: The Impact of Masks On Convolutional-Based Facial Expression Recognition](https://arxiv.org/abs/2104.08353)
 * 人脸识别
@@ -121,13 +100,13 @@
 
 <a name="22"/>
 
-## 22.重建
+## 22.Reconstruction重建
 * 3D 人体重建
   * [Temporal Consistency Loss for High Resolution Textured and Clothed 3DHuman Reconstruction from Monocular Video](https://arxiv.org/abs/2104.09259)
 
 <a name="21"/>
 
-## 21.视频
+## 21.Video视频
 * 视频恢复
   * [Restoration of Video Frames from a Single Blurred Image with Motion Understanding](https://arxiv.org/abs/2104.09134)
 * 异常检测
@@ -138,22 +117,22 @@
 
 <a name="20"/>
 
-## 20.三维
+## 20.3D三维
 * [OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas](https://arxiv.org/abs/2104.09403)<br>:star:[code](https://github.com/rshivansh/OmniLayout)
 
 <a name="19"/>
 
-## 19.光流
+## 19.Optical Flow光流
 * [OmniFlow: Human Omnidirectional Optical Flow](https://arxiv.org/abs/2104.07960)<br>:sunflower:[dataset](https://www.tu-chemnitz.de/etit/dst/forschung/comp_vision/datasets/omniflow/)
 
 <a name="18"/>
 
-## 18.图像检索
+## 18.Image Retrieval图像检索
 * [Continual learning in cross-modal retrieval](https://arxiv.org/abs/2104.06806)
 
 <a name="17"/>
 
-## 17.动作检测识别
+## 17.Action Detection and Recognition动作检测识别
 * action spotting-重点动作识别
   * [Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts](https://arxiv.org/abs/2104.06779)
   * [Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of their Representations for Action Spotting](https://arxiv.org/abs/2104.09333)<br>:sunflower:[dataset](https://soccer-net.org/)
@@ -162,14 +141,14 @@
 
 <a name="16"/>
 
-## 16.人员重识别
+## 16.Person Re-Identifications人员重识别
 * [Graph-based Person Signature for Person Re-Identifications](https://arxiv.org/abs/2104.06770)
 * 行人检测
   * [Generalizable Multi-Camera 3D Pedestrian Detection](https://arxiv.org/abs/2104.05813)
 
 <a name="15"/>
 
-## 15.遥感航空影像
+## 15.Aeria/Drones/Satellite/RS Image(航空影像/无人机)
 * 三维重建
   * [Machine-learned 3D Building Vectorization from Satellite Imagery](https://arxiv.org/abs/2104.06485)
 
@@ -186,7 +165,7 @@
 
 <a name="12"/>
 
-## 12.图像分割
+## 12.Image Segmentation图像分割
 * 语义分割
   * [Improving Online Performance Prediction for Semantic Segmentation](https://arxiv.org/abs/2104.05255) 
   * [Plants Don't Walk on the Street: Common-Sense Reasoning for Reliable Semantic Segmentation](https://arxiv.org/abs/2104.09254)
@@ -196,7 +175,7 @@
 
 <a name="11"/>
 
-## 11.图像处理
+## 11.Image Processing图像处理
 * 去除滤镜
   * [Instagram Filter Removal on Fashionable Images](https://arxiv.org/abs/2104.05072)
 * 去雾
@@ -218,16 +197,18 @@
   * [Physically Inspired Dense Fusion Networks for Relighting](https://arxiv.org/abs/2105.02209)<br> OIDDR-Net排名第二，AMIDR-Net 在 NTIRE 2021 年深度引导图像重光挑战中名列前五名
 * 图像恢复
   * [EDPN: Enhanced Deep Pyramid Network for Blurry Image Restoration](https://arxiv.org/abs/2105.04872)<br>:star:[code](https://github.com/zeyuxiao1997/EDPN)
+* bokeh effect(背景虚化)
+  * [Stacked Deep Multi-Scale Hierarchical Network for Fast Bokeh Effect Rendering from a Single Image](https://arxiv.org/abs/2105.07174)<br>:star:[code](https://github.com/saikatdutta/Stacked_DMSHN_bokeh)
 
 <a name="10"/>
 
-## 10.目标检测
+## 10.Object Detection目标检测
 * [LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network](https://arxiv.org/abs/2104.09248)
 * [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
 
 <a name="9"/>
 
-## 9.姿态估计
+## 9.Pose Estimation姿态估计
 * [Towards Automated and Marker-less Parkinson Disease Assessment: Predicting UPDRS Scores using Sit-stand videos](https://arxiv.org/abs/2104.04650)
 
 <a name="8"/>
@@ -237,7 +218,7 @@
 
 <a name="7"/>
 
-## 7.图像到图像翻译
+## 7.Image-to-Image Translation图像到图像翻译
 * [Dual Contrastive Learning for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2104.07689)<br>:star:[code](https://github.com/JunlinHan/DCLGAN)
 
 <a name="6"/>
@@ -262,7 +243,7 @@
 
 <a name="4"/>
 
-## 4.数据集
+## 4.Dataset数据集
 * [The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions](https://arxiv.org/abs/2104.02710)
 * [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
 
@@ -295,7 +276,7 @@
 
 <a name="1"/>
 
-## 1.CV 综合
+## 1.Unkown未分
 * [Reconsidering CO2 emissions from Computer Vision](https://arxiv.org/abs/2104.08702)
 * [Assessment of deep learning based blood pressure prediction from PPG and rPPG signals](https://arxiv.org/abs/2104.09313)
 * [I Find Your Lack of Uncertainty in Computer Vision Disturbing](https://arxiv.org/abs/2104.08188)
@@ -310,5 +291,6 @@
 * [Dynamic-OFA: Runtime DNN Architecture Switching for Performance Scaling on Heterogeneous Embedded Platforms](https://arxiv.org/abs/2105.03596)<br>与最先进的技术相比，在Jetson Xavier NX 上使用 ImageNet 的实验结果表明，在相似的 ImageNet Top-1 精度下，该方法的速度最高可达 3.5倍（CPU），2.4倍（GPU），或者在相似的延迟下，精度更高 3.8%（CPU），5.1%（GPU）。
 * [High-Resolution Complex Scene Synthesis with Transformers](https://arxiv.org/pdf/2105.06458.pdf)
 * [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
+* [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
