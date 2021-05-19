@@ -2,6 +2,9 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月19日新增1篇
+* [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月18日新增2篇
 * bokeh effect(背景虚化)
   * [Stacked Deep Multi-Scale Hierarchical Network for Fast Bokeh Effect Rendering from a Single Image](https://arxiv.org/abs/2105.07174)<br>:star:[code](https://github.com/saikatdutta/Stacked_DMSHN_bokeh)
@@ -292,5 +295,6 @@
 * [High-Resolution Complex Scene Synthesis with Transformers](https://arxiv.org/pdf/2105.06458.pdf)
 * [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
 * [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
+* [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
