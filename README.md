@@ -1,6 +1,11 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+### :fireworks::fireworks::fireworks:更新提示：5月21日新增2篇
+* 车辆重识别
+  * [An Empirical Study of Vehicle Re-Identification on the AI City Challenge](https://arxiv.org/abs/2105.09701)<br>:star:[code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)<br>获得 CVPR 2021研讨会上，NVIDIA AI City Challenge（英伟达人工智能城市挑战赛）第2赛道（车辆重识别）的第一名。
+* SR
+  * [Anchor-based Plain Net for Mobile Image Super-Resolution](https://arxiv.org/abs/2105.09750)<br>:star:[code](https://github.com/NJU-Jet/SR_Mobile_Quantization)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月19日新增1篇
 * [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
@@ -163,8 +168,11 @@
 <a name="13"/>
 
 ## 13.SR-超分辨率
-* [Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling](https://arxiv.org/abs/2104.05778)
-* [NTIRE 2021 Challenge on Video Super-Resolution](https://arxiv.org/abs/2104.14852)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+* 视频超分辨率
+  * [Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling](https://arxiv.org/abs/2104.05778)
+  * [NTIRE 2021 Challenge on Video Super-Resolution](https://arxiv.org/abs/2104.14852)<br>:house:[project](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+* 图像超分辨率
+  * [Anchor-based Plain Net for Mobile Image Super-Resolution](https://arxiv.org/abs/2105.09750)<br>:star:[code](https://github.com/NJU-Jet/SR_Mobile_Quantization)
 
 <a name="12"/>
 
@@ -241,6 +249,8 @@
   * [Rethinking of Radar's Role: A Camera-Radar Dataset and Systematic Annotator via Coordinate Alignment](https://arxiv.org/abs/2105.05207)<br>:sunflower:[dataset](https://www.cruwdataset.org/)
 * 车辆重识别
   * [A Strong Baseline for Vehicle Re-Identification](https://arxiv.org/abs/2104.10850)<br>:star:[code](https://github.com/cybercore-co-ltd/track2_aicity_2021)
+  * [An Empirical Study of Vehicle Re-Identification on the AI City Challenge](https://arxiv.org/abs/2105.09701)<br>:star:[code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)<br>获得 CVPR 2021研讨会上，NVIDIA AI City Challenge（英伟达人工智能城市挑战赛）第2赛道（车辆重识别）的第一名。
+
 * 车辆检索
   * [SBNet: Segmentation-based Network for Natural Language-based Vehicle Search](https://arxiv.org/abs/2104.11589)<br>:star:[code](https://github.com/lsrock1/nlp_search)
 
