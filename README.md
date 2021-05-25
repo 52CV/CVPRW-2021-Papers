@@ -1,6 +1,23 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+
+### :fireworks::fireworks::fireworks:更新提示：5月25日新增7篇
+* 目标检测
+  * [High-level camera-LiDAR fusion for 3D object detection with machine learning](https://arxiv.org/abs/2105.11060)
+* 数据增广
+  * [Wisdom for the Crowd: Discoursive Power in Annotation Instructions for Computer Vision](https://arxiv.org/abs/2105.10990)
+* 数据集
+  * [GOO: A Dataset for Gaze Object Prediction in Retail Environments](https://arxiv.org/abs/2105.10793)<br>:sunflower:[dataset](https://github.com/upeee/GOO-GAZE2021)
+* 分类
+  * [PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://arxiv.org/abs/2105.10782)
+* 未分
+  * [PAL: Intelligence Augmentation using Egocentric Visual Context Detection](https://arxiv.org/abs/2105.10735)
+* Reid
+  * [Video-based Person Re-identification without Bells and Whistles](https://arxiv.org/abs/2105.10678)<br>:star:[code](https://github.com/jackie840129/CF-AAN)
+* HDR 成像
+  * [ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging](https://arxiv.org/abs/2105.10697)<br>:star:[code](https://github.com/Pea-Shooter/ADNet)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月21日新增2篇
 * 车辆重识别
   * [An Empirical Study of Vehicle Re-Identification on the AI City Challenge](https://arxiv.org/abs/2105.09701)<br>:star:[code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)<br>获得 CVPR 2021研讨会上，NVIDIA AI City Challenge（英伟达人工智能城市挑战赛）第2赛道（车辆重识别）的第一名。
@@ -26,13 +43,25 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
+|[35.Data Augmentation(数据增广)](#35)|[34.Computational Photography(光学、几何、光场成像、计算摄影)](#34)|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
 |[20.三维](#20)|[19.光流](#19)|[18.图像检索](#18)|[17.动作检测识别](#17)|[16.人员重识别](#16)|
 |[15.遥感航空影像](#15)|[14VQA](#14)|[13.SR](#13)|[12.图像分割](#12)|[11.图像处理](#11)|
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.Unkown(未分)](#1)|
+
+
+<a name="35"/>
+
+## 35.Data Augmentation(数据增广)
+  * [Wisdom for the Crowd: Discoursive Power in Annotation Instructions for Computer Vision](https://arxiv.org/abs/2105.10990)
+
+<a name="34"/>
+
+## 34.Computational Photography(光学、几何、光场成像、计算摄影)
+* HDR 成像
+  * [ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging](https://arxiv.org/abs/2105.10697)<br>:star:[code](https://github.com/Pea-Shooter/ADNet)
 
 <a name="33"/>
 
@@ -49,6 +78,8 @@
 
 ## 31.图像分类
   * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
+* 多标签分类
+  * [PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://arxiv.org/abs/2105.10782)
 
 <a name="30"/>
 
@@ -153,6 +184,8 @@
 * [Graph-based Person Signature for Person Re-Identifications](https://arxiv.org/abs/2104.06770)
 * 行人检测
   * [Generalizable Multi-Camera 3D Pedestrian Detection](https://arxiv.org/abs/2104.05813)
+* 基于视频的 Reid
+  * [Video-based Person Re-identification without Bells and Whistles](https://arxiv.org/abs/2105.10678)<br>:star:[code](https://github.com/jackie840129/CF-AAN)
 
 <a name="15"/>
 
@@ -216,6 +249,8 @@
 ## 10.Object Detection目标检测
 * [LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network](https://arxiv.org/abs/2104.09248)
 * [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
+* 3D目标检测
+  * [High-level camera-LiDAR fusion for 3D object detection with machine learning](https://arxiv.org/abs/2105.11060)
 
 <a name="9"/>
 
@@ -259,6 +294,7 @@
 ## 4.Dataset数据集
 * [The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions](https://arxiv.org/abs/2104.02710)
 * [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
+* [GOO: A Dataset for Gaze Object Prediction in Retail Environments](https://arxiv.org/abs/2105.10793)<br>:sunflower:[dataset](https://github.com/upeee/GOO-GAZE2021)
 
 <a name="3"/>
 
@@ -306,5 +342,7 @@
 * [Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example](https://arxiv.org/abs/2105.06407)
 * [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
 * [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
+* [PAL: Intelligence Augmentation using Egocentric Visual Context Detection](https://arxiv.org/abs/2105.10735)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
+
