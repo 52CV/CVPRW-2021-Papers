@@ -1,6 +1,9 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
+* 三维
+  * [Real-time Monocular Depth Estimation with Sparse Supervision on Mobile](https://arxiv.org/abs/2105.12053)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月25日新增7篇
 * 目标检测
@@ -158,6 +161,8 @@
 
 ## 20.3D三维
 * [OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas](https://arxiv.org/abs/2104.09403)<br>:star:[code](https://github.com/rshivansh/OmniLayout)
+* 深度估计
+  * [Real-time Monocular Depth Estimation with Sparse Supervision on Mobile](https://arxiv.org/abs/2105.12053)
 
 <a name="19"/>
 
