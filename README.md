@@ -1,6 +1,14 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+
+### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
+
+### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
+* 计算成像
+  * [How to Calibrate Your Event Camera](https://arxiv.org/abs/2105.12362)<br>:star:[code](https://github.com/uzh-rpg/e2calib)
+
+
 ### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
 * 三维
   * [Real-time Monocular Depth Estimation with Sparse Supervision on Mobile](https://arxiv.org/abs/2105.12053)
