@@ -2,12 +2,12 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
-### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
+### :fireworks::fireworks::fireworks:更新提示：5月28日新增1篇
+* [RSCA: Real-time Segmentation-based Context-Aware Scene Text Detection](https://arxiv.org/abs/2105.12789)
 
-### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
+### :fireworks::fireworks::fireworks:更新提示：5月27日新增1篇
 * 计算成像
   * [How to Calibrate Your Event Camera](https://arxiv.org/abs/2105.12362)<br>:star:[code](https://github.com/uzh-rpg/e2calib)
-
 
 ### :fireworks::fireworks::fireworks:更新提示：5月26日新增1篇
 * 三维
@@ -54,6 +54,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
+|[36.OCR](#36)|
 |[35.Data Augmentation(数据增广)](#35)|[34.Computational Photography(光学、几何、光场成像、计算摄影)](#34)|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
@@ -62,6 +63,11 @@
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.Unkown(未分)](#1)|
 
+<a name="36"/>
+
+## 36.OCR
+* 场景文本识别
+  * [RSCA: Real-time Segmentation-based Context-Aware Scene Text Detection](https://arxiv.org/abs/2105.12789)
 
 <a name="35"/>
 
@@ -71,9 +77,10 @@
 <a name="34"/>
 
 ## 34.Computational Photography(光学、几何、光场成像、计算摄影)
+* [How to Calibrate Your Event Camera](https://arxiv.org/abs/2105.12362)<br>:star:[code](https://github.com/uzh-rpg/e2calib)
 * HDR 成像
   * [ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging](https://arxiv.org/abs/2105.10697)<br>:star:[code](https://github.com/Pea-Shooter/ADNet)
-
+  
 <a name="33"/>
 
 ## 33.GAN
