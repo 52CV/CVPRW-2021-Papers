@@ -2,6 +2,9 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：5月31日新增1篇
+* [The Herbarium 2021 Half–Earth Challenge Dataset](https://arxiv.org/abs/2105.13808)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月28日新增1篇
 * [RSCA: Real-time Segmentation-based Context-Aware Scene Text Detection](https://arxiv.org/abs/2105.12789)
 
@@ -13,44 +16,6 @@
 * 三维
   * [Real-time Monocular Depth Estimation with Sparse Supervision on Mobile](https://arxiv.org/abs/2105.12053)
 
-### :fireworks::fireworks::fireworks:更新提示：5月25日新增7篇
-* 目标检测
-  * [High-level camera-LiDAR fusion for 3D object detection with machine learning](https://arxiv.org/abs/2105.11060)
-* 数据增广
-  * [Wisdom for the Crowd: Discoursive Power in Annotation Instructions for Computer Vision](https://arxiv.org/abs/2105.10990)
-* 数据集
-  * [GOO: A Dataset for Gaze Object Prediction in Retail Environments](https://arxiv.org/abs/2105.10793)<br>:sunflower:[dataset](https://github.com/upeee/GOO-GAZE2021)
-* 分类
-  * [PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://arxiv.org/abs/2105.10782)
-* 未分
-  * [PAL: Intelligence Augmentation using Egocentric Visual Context Detection](https://arxiv.org/abs/2105.10735)
-* Reid
-  * [Video-based Person Re-identification without Bells and Whistles](https://arxiv.org/abs/2105.10678)<br>:star:[code](https://github.com/jackie840129/CF-AAN)
-* HDR 成像
-  * [ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging](https://arxiv.org/abs/2105.10697)<br>:star:[code](https://github.com/Pea-Shooter/ADNet)
-
-### :fireworks::fireworks::fireworks:更新提示：5月21日新增2篇
-* 车辆重识别
-  * [An Empirical Study of Vehicle Re-Identification on the AI City Challenge](https://arxiv.org/abs/2105.09701)<br>:star:[code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)<br>获得 CVPR 2021研讨会上，NVIDIA AI City Challenge（英伟达人工智能城市挑战赛）第2赛道（车辆重识别）的第一名。
-* SR
-  * [Anchor-based Plain Net for Mobile Image Super-Resolution](https://arxiv.org/abs/2105.09750)<br>:star:[code](https://github.com/NJU-Jet/SR_Mobile_Quantization)
-
-### :fireworks::fireworks::fireworks:更新提示：5月19日新增1篇
-* [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
-
-### :fireworks::fireworks::fireworks:更新提示：5月18日新增2篇
-* bokeh effect(背景虚化)
-  * [Stacked Deep Multi-Scale Hierarchical Network for Fast Bokeh Effect Rendering from a Single Image](https://arxiv.org/abs/2105.07174)<br>:star:[code](https://github.com/saikatdutta/Stacked_DMSHN_bokeh)
-* 医学图像
-  * [Can self-training identify suspicious ugly duckling lesions?](https://arxiv.org/abs/2105.07116)
-* 未分
-  * [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
-
-### :fireworks::fireworks::fireworks:更新提示：5月17日新增2篇
-* 视频
-  * [Automatic Non-Linear Video Editing Transfer](https://arxiv.org/abs/2105.06988)
-* 目标跟踪
-  * [City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones](https://arxiv.org/abs/2105.06623)<br>:star:[code](https://github.com/LCFractal/AIC21-MTMC)
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
@@ -315,6 +280,7 @@
 * [The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions](https://arxiv.org/abs/2104.02710)
 * [The iWildCam 2021 Competition Dataset](https://arxiv.org/abs/2105.03494)
 * [GOO: A Dataset for Gaze Object Prediction in Retail Environments](https://arxiv.org/abs/2105.10793)<br>:sunflower:[dataset](https://github.com/upeee/GOO-GAZE2021)
+* [The Herbarium 2021 Half–Earth Challenge Dataset](https://arxiv.org/abs/2105.13808)
 
 <a name="3"/>
 
