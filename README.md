@@ -1,6 +1,13 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+### :fireworks::fireworks::fireworks:更新提示：6月1日新增3篇
+* 车辆
+  * [Connecting Language and Vision for Natural Language-Based Vehicle Retrieval](https://arxiv.org/abs/2105.14897)<br>:star:[code](https://github.com/ShuaiBai623/AIC2021-T5-CLV)
+* 目标检测
+  * [Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner](https://arxiv.org/abs/2105.14693)<br>:star:[code](https://github.com/2-Chae/A-NDFT)<br>本文所介绍算法 A-NDFT，是对 NDFT 的改良版本。A-NDFT 利用两种加速技术，feature replay 和 slow learner。因此，在一个大规模的 UAVDT 基准上，它可以将 NDVT 的训练时间从 31 小时减少到 3 小时，同时仍然保持性能。
+* 6D
+  * [Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains](https://arxiv.org/abs/2105.14391)<br>:star:[code](https://github.com/wenbowen123/iros20-6d-pose-tracking)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月31日新增1篇
 * [The Herbarium 2021 Half–Earth Challenge Dataset](https://arxiv.org/abs/2105.13808)
@@ -19,7 +26,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[36.OCR](#36)|
+|[37.6D](#37)|[36.OCR](#36)|
 |[35.Data Augmentation(数据增广)](#35)|[34.Computational Photography(光学、几何、光场成像、计算摄影)](#34)|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
@@ -27,6 +34,12 @@
 |[15.遥感航空影像](#15)|[14VQA](#14)|[13.SR](#13)|[12.图像分割](#12)|[11.图像处理](#11)|
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.Unkown(未分)](#1)|
+
+
+<a name="37"/>
+
+## 37.6D
+  * [Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains](https://arxiv.org/abs/2105.14391)<br>:star:[code](https://github.com/wenbowen123/iros20-6d-pose-tracking)
 
 <a name="36"/>
 
@@ -234,8 +247,10 @@
 ## 10.Object Detection目标检测
 * [LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network](https://arxiv.org/abs/2104.09248)
 * [Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection](https://arxiv.org/abs/2104.14082)<br>:star:[code](https://github.com/SHI-Labs/Pseudo-IoU-for-Anchor-Free-Object-Detection)
+* [Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner](https://arxiv.org/abs/2105.14693)<br>:star:[code](https://github.com/2-Chae/A-NDFT)<br>本文所介绍算法 A-NDFT，是对 NDFT 的改良版本。A-NDFT 利用两种加速技术，feature replay 和 slow learner。因此，在一个大规模的 UAVDT 基准上，它可以将 NDVT 的训练时间从 31 小时减少到 3 小时，同时仍然保持性能。
 * 3D目标检测
   * [High-level camera-LiDAR fusion for 3D object detection with machine learning](https://arxiv.org/abs/2105.11060)
+
 
 <a name="9"/>
 
@@ -273,6 +288,8 @@
 
 * 车辆检索
   * [SBNet: Segmentation-based Network for Natural Language-based Vehicle Search](https://arxiv.org/abs/2104.11589)<br>:star:[code](https://github.com/lsrock1/nlp_search)
+  * [Connecting Language and Vision for Natural Language-Based Vehicle Retrieval](https://arxiv.org/abs/2105.14897)<br>:star:[code](https://github.com/ShuaiBai623/AIC2021-T5-CLV)
+
 
 <a name="4"/>
 
