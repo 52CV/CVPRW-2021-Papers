@@ -1,6 +1,14 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+
+### :fireworks::fireworks::fireworks:更新提示：6月2日新增3篇
+* 语义分割
+  * [Detecting Anomalies in Semantic Segmentation with Prototypes](https://arxiv.org/abs/2106.00472)
+* 未分
+  * [PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes](https://arxiv.org/abs/2106.00446)
+  * [Semi-Supervised Disparity Estimation with Deep Feature Reconstruction](https://arxiv.org/abs/2106.00318)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月1日新增3篇
 * 车辆
   * [Connecting Language and Vision for Natural Language-Based Vehicle Retrieval](https://arxiv.org/abs/2105.14897)<br>:star:[code](https://github.com/ShuaiBai623/AIC2021-T5-CLV)
@@ -212,6 +220,7 @@
   * [Improving Online Performance Prediction for Semantic Segmentation](https://arxiv.org/abs/2104.05255) 
   * [Plants Don't Walk on the Street: Common-Sense Reasoning for Reliable Semantic Segmentation](https://arxiv.org/abs/2104.09254)
   * [Rethinking Ensemble-Distillation for Semantic Segmentation Based Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.14203)
+  * [Detecting Anomalies in Semantic Segmentation with Prototypes](https://arxiv.org/abs/2106.00472)
 * 实例分割
   * [Fashion-Guided Adversarial Attack on Person Segmentation](https://arxiv.org/abs/2104.08422)
 
@@ -346,6 +355,8 @@
 * [Texture Generation with Neural Cellular Automata](https://arxiv.org/abs/2105.07299)<br>:house:[project](https://selforglive.github.io/cvpr_textures/)
 * [Single View Geocentric Pose in the Wild](https://arxiv.org/abs/2105.08229)<br>:star:[code](https://github.com/pubgeo/monocular-geocentric-pose)
 * [PAL: Intelligence Augmentation using Egocentric Visual Context Detection](https://arxiv.org/abs/2105.10735)
+* [PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes](https://arxiv.org/abs/2106.00446)
+* [Semi-Supervised Disparity Estimation with Deep Feature Reconstruction](https://arxiv.org/abs/2106.00318)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
 
