@@ -1,6 +1,19 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+### :fireworks::fireworks::fireworks:更新提示：6月4日新增2篇
+* Transformer
+  * [Anticipative Video Transformer](https://arxiv.org/abs/2106.02036)<br>:house:[project](https://facebookresearch.github.io/AVT/)<br>在 CVPR 21 EPIC-Kitchens 行动预期挑战排行榜上排名第一
+* 图像处理
+  * [NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results](https://arxiv.org/abs/2106.01439)
+
+### :fireworks::fireworks::fireworks:更新提示：6月3日新增3篇
+* 半监督
+  * [The Semi-Supervised iNaturalist Challenge at the FGVC8 Workshop](https://arxiv.org/abs/2106.01364)
+* 分割
+  * [Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation](https://arxiv.org/abs/2106.01061)
+* 细粒度
+  * [Cleaning and Structuring the Label Space of the iMet Collection 2020](https://arxiv.org/abs/2106.00815)<br>:star:[code](https://github.com/sunniesuhyoung/iMet2020cleaned)
 
 ### :fireworks::fireworks::fireworks:更新提示：6月2日新增3篇
 * 语义分割
@@ -34,7 +47,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[37.6D](#37)|[36.OCR](#36)|
+|[38.Transformer](#38)|[37.6D](#37)|[36.OCR](#36)|
 |[35.Data Augmentation(数据增广)](#35)|[34.Computational Photography(光学、几何、光场成像、计算摄影)](#34)|[33.GAN](#33)|[32.手语识别](#32)|[31.图像分类](#31)|
 |[30.目标跟踪](#30)|[29.Auto-ML&NAS](#29)|[28.医学影像](#28)|[27.人体姿态估计](#27)|[26.无监督](#26)|
 |[25.SLAM/AR/VR/机器人](#25)|[24.模型压缩&应用部署](#24)|[23.人脸](#23)|[22.重建](#22)|[21.视频](#21)|
@@ -43,6 +56,10 @@
 |[10.目标检测](#10)|[9.姿态估计](#9)|[8.Camera Trap Images-相机陷阱图像](#8)|[7.图像到图像翻译](#7)|[6.手绘草图](#6)|
 |[5.车辆车牌与智能驾驶](#5)|[4.数据集](#4)|[3.各种神经网络](#3)|[2.算法学习](#2)|[1.Unkown(未分)](#1)|
 
+<a name="38"/>
+
+## 38.Transformer
+  * [Anticipative Video Transformer](https://arxiv.org/abs/2106.02036)<br>:house:[project](https://facebookresearch.github.io/AVT/)<br>在 CVPR 21 EPIC-Kitchens 行动预期挑战排行榜上排名第一
 
 <a name="37"/>
 
@@ -84,6 +101,8 @@
   * [Boosting Co-teaching with Compression Regularization for Label Noise](https://arxiv.org/abs/2104.13766)<br>:star:[code](https://github.com/yingyichen-cyy/Nested-Co-teaching)
 * 多标签分类
   * [PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://arxiv.org/abs/2105.10782)
+* 细粒度
+  * [Cleaning and Structuring the Label Space of the iMet Collection 2020](https://arxiv.org/abs/2106.00815)<br>:star:[code](https://github.com/sunniesuhyoung/iMet2020cleaned)
 
 <a name="30"/>
 
@@ -115,8 +134,11 @@
 
 <a name="26"/>
 
-## 26.无监督 
+## 26.无监督/半监督
+* 无监督
   * [Perceptual Loss for Robust Unsupervised Homography Estimation](https://arxiv.org/abs/2104.10011)
+* 半监督
+  * [The Semi-Supervised iNaturalist Challenge at the FGVC8 Workshop](https://arxiv.org/abs/2106.01364)
 
 <a name="25"/>
 
@@ -223,10 +245,13 @@
   * [Detecting Anomalies in Semantic Segmentation with Prototypes](https://arxiv.org/abs/2106.00472)
 * 实例分割
   * [Fashion-Guided Adversarial Attack on Person Segmentation](https://arxiv.org/abs/2104.08422)
+* 视频目标分割
+  * [Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation](https://arxiv.org/abs/2106.01061)
 
 <a name="11"/>
 
 ## 11.Image Processing图像处理
+* [NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results](https://arxiv.org/abs/2106.01439)
 * 去除滤镜
   * [Instagram Filter Removal on Fashionable Images](https://arxiv.org/abs/2104.05072)
 * 去雾
