@@ -1,6 +1,11 @@
 # CVPR2021 Workshop 组会最新论文/代码(持续更新)
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
+
+### :fireworks::fireworks::fireworks:更新提示：6月7日新增1篇
+* 细粒度
+  * [Fine-Grained Visual Classification of Plant Species In The Wild: Object Detection as A Reinforced Means of Attention](https://arxiv.org/abs/2106.02141)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月4日新增2篇
 * Transformer
   * [Anticipative Video Transformer](https://arxiv.org/abs/2106.02036)<br>:house:[project](https://facebookresearch.github.io/AVT/)<br>在 CVPR 21 EPIC-Kitchens 行动预期挑战排行榜上排名第一
@@ -103,6 +108,7 @@
   * [PLM: Partial Label Masking for Imbalanced Multi-label Classification](https://arxiv.org/abs/2105.10782)
 * 细粒度
   * [Cleaning and Structuring the Label Space of the iMet Collection 2020](https://arxiv.org/abs/2106.00815)<br>:star:[code](https://github.com/sunniesuhyoung/iMet2020cleaned)
+  * [Fine-Grained Visual Classification of Plant Species In The Wild: Object Detection as A Reinforced Means of Attention](https://arxiv.org/abs/2106.02141)
 
 <a name="30"/>
 
