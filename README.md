@@ -2,6 +2,11 @@
 
 ## :star2:[CVPR2021最新信息及已接收论文/代码(持续更新)](https://github.com/52CV/CVPR-2021-Papers)
 
+### :fireworks::fireworks::fireworks:更新提示：6月8日新增2篇
+* [Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](https://arxiv.org/abs/2106.03088)
+* 元学习
+  * [DAMSL: Domain Agnostic Meta Score-based Learning](https://arxiv.org/abs/2106.03041)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月7日新增1篇
 * 细粒度
   * [Fine-Grained Visual Classification of Plant Species In The Wild: Object Detection as A Reinforced Means of Attention](https://arxiv.org/abs/2106.02141)
@@ -365,6 +370,9 @@
 * 联邦学习
   * [Towards Fair Federated Learning with Zero-Shot Data Augmentation](https://arxiv.org/abs/2104.13417)
   * [Cluster-driven Graph Federated Learning over Multiple Domains](https://arxiv.org/abs/2104.14628)
+* 元学习
+  * [DAMSL: Domain Agnostic Meta Score-based Learning](https://arxiv.org/abs/2106.03041)
+
 
 <a name="1"/>
 
@@ -388,6 +396,7 @@
 * [PAL: Intelligence Augmentation using Egocentric Visual Context Detection](https://arxiv.org/abs/2105.10735)
 * [PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes](https://arxiv.org/abs/2106.00446)
 * [Semi-Supervised Disparity Estimation with Deep Feature Reconstruction](https://arxiv.org/abs/2106.00318)
+* [Reducing the feature divergence of RGB and near-infrared images using Switchable Normalization](https://arxiv.org/abs/2106.03088)
 * 异常检测
   * [Brittle Features May Help Anomaly Detection](https://arxiv.org/abs/2104.10453)
 
